@@ -1,2 +1,2 @@
-# diffusion4timeseries
-papers that related to the diffusion model for time series data
+# <center>Awesome-Diffusion-for-Timeseries-Data</center>
+papers related to the diffusion model for time series data
